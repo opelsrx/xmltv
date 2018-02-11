@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tvguide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="second_xml.xsd">
+   <channel>
+      <name>1.bluemovie.de</name>
+      <logotype>http://chanlogos.xmltv.se/1.bluemovie.de.png</logotype>
+      <show>
+         <start>01:00</start>
+         <titel>Bedtime Stories - Teil 3</titel>
+      </show>
+      <show>
+         <start>03:05</start>
+         <titel>Die Frau meines Nachbarn</titel>
+      </show>
+      <show>
+         <start>05:05</start>
+         <titel>Freizügig im Fasching</titel>
+      </show>
+      <show>
+         <start>06:25</start>
+         <titel>Freizügig im Fasching</titel>
+      </show>
+      <show>
+         <start>07:55</start>
+         <titel>Die heimlichen Gelüste meiner Frau - Vol. 5</titel>
+      </show>
+      <show>
+         <start>09:45</start>
+         <titel>Mütter aus dem Wohnwagen</titel>
+      </show>
+      <show>
+         <start>11:30</start>
+         <titel>Love de Luxe</titel>
+      </show>
+      <show>
+         <start>13:40</start>
+         <titel>Bedtime Stories - Teil 3</titel>
+      </show>
+      <show>
+         <start>15:45</start>
+         <titel>Die Frau meines Nachbarn</titel>
+      </show>
+      <show>
+         <start>17:45</start>
+         <titel>Freizügig im Fasching</titel>
+      </show>
+      <show>
+         <start>19:15</start>
+         <titel>Die heimlichen Gelüste meiner Frau - Vol. 5</titel>
+      </show>
+      <show>
+         <start>21:05</start>
+         <titel>Mütter aus dem Wohnwagen</titel>
+      </show>
+      <show>
+         <start>22:50</start>
+         <titel>Love de Luxe</titel>
+      </show>
+   </channel>
+   <channel>
+      <name>animalplanet.se</name>
+      <logotype>http://chanlogos.xmltv.se/animalplanet.se.png</logotype>
+      <show>
+         <start>01:08</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Nicky blev utkastad från Johannesburg Zoo eftersom han vänslades för mycket med honorna. Vaknar kärleken till liv igen nu när hans gamla flamma flyttas till Chimp Eden?</desc>
+      </show>
+      <show>
+         <start>01:35</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Schimpansen Josephine rymmer från de vuxnas inhägnad och ger sig ut på äventyr. Kan hon fångas in igen?</desc>
+      </show>
+      <show>
+         <start>02:00</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Spänningarna mellan alfahannen Jao och nummer två Zac dras till sin spets. Jao är slug, men Zac är yngre och större. Vem går därifrån som segrare?</desc>
+      </show>
+      <show>
+         <start>02:25</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Tonys grå starr har gjort honom blind på ett öga. Kan hans syn återställas med en konstgjord lins? Om operationen misslyckas ser framtiden mörk ut för Tony.</desc>
+      </show>
+      <show>
+         <start>02:50</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Vi får se hur några av människoaporna från första säsongen klarat sig. Gorillaungen Shufai togs emot efter att ha blivit skjuten - hur gick det? Och kunde schimpansen Gah gå igen?</desc>
+      </show>
+      <show>
+         <start>03:15</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Två starka schimpanser rymmer och skötaren Felix är tvungen att söva dem med en pil innan de skadar någon. Rachel presenterar gorillaungen Pikin för några unga gorillor.</desc>
+      </show>
+      <show>
+         <start>03:39</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Veterinärteknikern Babs räddar en schimpans som illegalt hållits kedjad vid ett träd. Personalen på Mefous nationalpark hjälper den övergivna schimpansen Daniel att passa in.</desc>
+      </show>
+      <show>
+         <start>04:02</start>
+         <titel>Bad Dog</titel>
+         <desc lang="sv">Ett par ägare undrar hur intelligent deras hund är, en bulldogg tror att allt tillhör henne och en katt stjäl från hela kvarteret.</desc>
+      </show>
+      <show>
+         <start>04:49</start>
+         <titel>Bad Dog</titel>
+         <desc lang="sv">En hund älskar allt som har med glass att göra och en annan fastnar hela tiden i saker, medan en papegoja har fått för vana att rappa och svära.</desc>
+      </show>
+      <show>
+         <start>05:36</start>
+         <titel>Meet The Orangutans</titel>
+         <desc lang="sv">Följ med och träffa föräldralösa orangutangungar som återhämtar sig på världens första orangutangreservat i Borneo innan de återvänder till det vilda.</desc>
+      </show>
+      <show>
+         <start>06:00</start>
+         <titel>Meet The Orangutans</titel>
+         <desc lang="sv">När föräldralösa Gelison kom till Sepilok var han bara ett år gammal. Nu när han kommit tillrätta tänjer han på gränserna med sitt dåliga uppförande.</desc>
+      </show>
+      <show>
+         <start>06:25</start>
+         <titel>Whale Wars</titel>
+         <desc lang="sv">Besättningen ombord på Sea Shepherd försöker reparera skrovskadan på Steve Irwin. Kommer de kunna fullfölja sina planerade attacker mot den japanska valflottan?</desc>
+      </show>
+      <show>
+         <start>07:15</start>
+         <titel>Wildest Middle East</titel>
+         <desc lang="sv">Turkiet kryllar av kontraster, men naturen ställs inför extrema utmaningar. Berg, klimatförändringar och hotfulla kustlinjer är en del av problemet.</desc>
+      </show>
+      <show>
+         <start>08:10</start>
+         <titel>Wildest Middle East</titel>
+         <desc lang="sv">Mellanösterns naturhistoria är häpnadsväckande, men knappt dokumenterad på film. Följ med och utforska djurlivet i snåriga skogar och karga öknar.</desc>
+      </show>
+      <show>
+         <start>09:05</start>
+         <titel>Wildest Middle East</titel>
+         <desc lang="sv">Jordaniens naturliv står inför några av de största utmaningarna i världen. Allt levande i området styrs ständigt av den stekheta solen.</desc>
+      </show>
+      <show>
+         <start>10:00</start>
+         <titel>Wildest Middle East</titel>
+         <desc lang="sv">Sanddynerna i norra Afrika kan se torra och karga ut, men där finns faktiskt ett rikt ekosystem med allt från Nilens krokodiler till hornhuggormar.</desc>
+      </show>
+      <show>
+         <start>10:55</start>
+         <titel>Wildest Middle East</titel>
+         <desc lang="sv">Mellanösterns naturhistoria är häpnadsväckande, men knappt dokumenterad på film. Följ med och utforska djurlivet i snåriga skogar och karga öknar.</desc>
+      </show>
+      <show>
+         <start>11:50</start>
+         <titel>My Fat Pet</titel>
+         <desc lang="sv">Travis måste hjälpa chihuahuan Chipa att gå ned i vikt och lära sig ignorera mat. Och så hjälper han en stor familj vars överviktiga gris riskerar att få allvarliga hälsoproblem.</desc>
+      </show>
+      <show>
+         <start>12:45</start>
+         <titel>The Bronx Zoo</titel>
+         <desc lang="sv">En inblick i vardagslivet på Bronx Zoo, där vi får följa det dagliga arbetet som ger förstklassig omsorg åt djuren och dessutom undervisar allmänheten i djurliv och naturvård.</desc>
+      </show>
+      <show>
+         <start>13:40</start>
+         <titel>Life On Earth: A New Prehistory</titel>
+         <desc lang="sv">Upptäck revolutionerande upptäckter i paleontologi när CGI blåser liv i nya tolkningar av djur vars utseende varit omdebatterat, och nyligen upptäckta livsformer.</desc>
+      </show>
+      <show>
+         <start>14:35</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Tonys grå starr har gjort honom blind på ett öga. Kan hans syn återställas med en konstgjord lins? Om operationen misslyckas ser framtiden mörk ut för Tony.</desc>
+      </show>
+      <show>
+         <start>15:03</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Vi får se hur några av människoaporna från första säsongen klarat sig. Gorillaungen Shufai togs emot efter att ha blivit skjuten - hur gick det? Och kunde schimpansen Gah gå igen?</desc>
+      </show>
+      <show>
+         <start>15:30</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Två starka schimpanser rymmer och skötaren Felix är tvungen att söva dem med en pil innan de skadar någon. Rachel presenterar gorillaungen Pikin för några unga gorillor.</desc>
+      </show>
+      <show>
+         <start>15:58</start>
+         <titel>Going Ape</titel>
+         <desc lang="sv">Veterinärteknikern Babs räddar en schimpans som illegalt hållits kedjad vid ett träd. Personalen på Mefous nationalpark hjälper den övergivna schimpansen Daniel att passa in.</desc>
+      </show>
+      <show>
+         <start>16:25</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">Eugene återvänder till Sudan för sin största räddningsinsats någonsin. Sju schimpanser väntar på att hämtas, men när en försvinner bryter paniken ut.</desc>
+      </show>
+      <show>
+         <start>16:53</start>
+         <titel>Escape to Chimp Eden</titel>
+         <desc lang="sv">När Sudaninsatsen når sin höjdpunkt kämpar Eugene mot matbrist, byråkratiskt trassel och ett gäng vilda schimpansungar.</desc>
+      </show>
+      <show>
+         <start>17:20</start>
+         <titel>Into The Dragon's Lair</titel>
+         <desc lang="sv">Kameramannen Didier Noirot och fotografen Roger Horrocks reser till papyrusgrottorna i Botswana för att komma närmare den fruktade nilkrokodilen än vad någon någonsin gjort förut.</desc>
+      </show>
+      <show>
+         <start>18:15</start>
+         <titel>Jaws Strikes Back</titel>
+         <desc lang="sv">Greg Skomal och SharkCam-laget drar till Florida, hajattackernas centrum, för att undersöka varför jättehajar invaderar statens kust.</desc>
+      </show>
+      <show>
+         <start>19:10</start>
+         <titel>Saba And The Rhino's Secret</titel>
+         <desc lang="sv">Den äventyrslystna djurexperten Saba Douglas-Hamilton ger sig ut på en otrolig resa för att avslöja noshörningens sanna personlighet och hemliga liv.</desc>
+      </show>
+      <show>
+         <start>20:05</start>
+         <titel>Saving a Species: Gorillas on the Brink with Natalie Portman</titel>
+         <desc lang="sv">Emmy-nominerade "Rädda gorillorna" följer skådespelaren Natalie Portman och experten Jack Hanna när de söker efter den utrotningshotade bergsgorillan djupt in i Rwandas regnskog.</desc>
+      </show>
+      <show>
+         <start>21:00</start>
+         <titel>Jaws Comes Home: Return of the Great Whites</titel>
+         <desc lang="sv">Hajexperten och forskaren Greg Skomal följer fem vithajar på en sex månader lång resa för att bättre försöka förstå dessa bespottade rovjägare.</desc>
+      </show>
+      <show>
+         <start>21:55</start>
+         <titel>Lone Star Law</titel>
+         <desc lang="sv">Allting är större i Texas, som till exempel viltvårdarna Texas Game Wardens arbete att skydda naturtillgångarna i Lone Star State samt övervaka statens 27 miljoner invånare.</desc>
+      </show>
+      <show>
+         <start>22:50</start>
+         <titel>Lone Star Law</titel>
+         <desc lang="sv">Viltvårdarna Texas Game Wardens jobbar under täckmantel för att ta fast någon som säljer olagliga alligatordelar. Ett tips leder dem till en sportfiskare med alltför små fiskar.</desc>
+      </show>
+      <show>
+         <start>23:45</start>
+         <titel>Treehouse Masters</titel>
+         <desc lang="sv">Trädviskaren Pete Nelson och hans team designar privata tillflyktsorter åt människor som har en passion för att återförenas med naturen och upptäcka sitt inre barn.</desc>
+      </show>
+      <show>
+         <start>00:40</start>
+         <titel>Treehouse Masters</titel>
+         <desc lang="sv">Pete befinner sig i Catskills-bergen i New York för att bygga ett trädhus. Genom att använda sin kunds samling av 50 vintagefönster skapar han ett personligt glashus.</desc>
+      </show>
+   </channel>
+   <channel>
+      <name>arab.aljazeera.net</name>
+      <logotype>http://chanlogos.xmltv.se/arab.aljazeera.net.png</logotype>
+      <show>
+         <start>01:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>01:05</start>
+         <titel>From Washington</titel>
+         <desc lang="en">A daily current affairs program looking at a major news story of the day, providing analysis into what is behind the news to shed light on the origins and consequences of the event.</desc>
+      </show>
+      <show>
+         <start>01:55</start>
+         <titel>Weather Forecast</titel>
+         <desc lang="en">Summary of the weather from around the globe.</desc>
+      </show>
+      <show>
+         <start>02:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>02:30</start>
+         <titel>Today's Interview</titel>
+         <desc lang="en">Interviews with politicians, academics and experts about regional and international issues.</desc>
+      </show>
+      <show>
+         <start>03:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>03:05</start>
+         <titel>Today's Harvest</titel>
+         <desc lang="en">An extensive round up of the day's news coverage, bringing you the headline news along with in-depth reports, analysis and interviews from around the world. Also includes world sports news.</desc>
+      </show>
+      <show>
+         <start>04:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>04:30</start>
+         <titel>The Cultural Anthropologist</titel>
+         <desc lang="en">Magazine show about Arab philosophy and culture.</desc>
+      </show>
+      <show>
+         <start>05:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>05:30</start>
+         <titel>Behind the News</titel>
+         <desc lang="en">Current affairs program analysing the major news story of the day.</desc>
+      </show>
+      <show>
+         <start>06:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>07:00</start>
+         <titel>Al Jazeera This Morning</titel>
+         <desc lang="en">Starting the day with news and developments brought to you with live interviews and full reports from Al Jazeera's global teams for the latest in news around the world.</desc>
+      </show>
+      <show>
+         <start>09:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>09:30</start>
+         <titel>Economy &amp; People</titel>
+         <desc lang="en">Programme that discusses economic issues to throw light on their effect and relevance to people.</desc>
+      </show>
+      <show>
+         <start>10:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>10:30</start>
+         <titel>Sports News</titel>
+         <desc lang="en">Round the clock coverage of the latest sports events from stadiums all around the world.</desc>
+      </show>
+      <show>
+         <start>11:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>11:05</start>
+         <titel>Press Review</titel>
+         <desc lang="en">Latest editorials and opinion columns from various major newspapers around the world, brought to you by JSC correspondents.</desc>
+      </show>
+      <show>
+         <start>11:30</start>
+         <titel>The Traveler</titel>
+         <desc lang="en">Weekly program dealing with travel issues, adventure journeys and touring touristic activities.</desc>
+      </show>
+      <show>
+         <start>11:55</start>
+         <titel>Weather Forecast</titel>
+         <desc lang="en">Summary of the weather from around the globe.</desc>
+      </show>
+      <show>
+         <start>12:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>12:05</start>
+         <titel>News Competition</titel>
+         <desc lang="en">Weekly live interactive magazine presenting a variety of subjects starting with two news items competing for the status of most significant event of the week.</desc>
+      </show>
+      <show>
+         <start>13:00</start>
+         <titel>Al Jazeera Mid Day</titel>
+         <desc lang="en">The day's news and developments brought to you with interviews and reports from Al Jazeera's global teams for the latest in news around the world. With economic news and press review.</desc>
+      </show>
+      <show>
+         <start>14:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>14:30</start>
+         <titel>Sports News</titel>
+         <desc lang="en">Round the clock coverage of the latest sports events from stadiums all around the world.</desc>
+      </show>
+      <show>
+         <start>14:55</start>
+         <titel>Weather Forecast</titel>
+         <desc lang="en">Summary of the weather from around the globe.</desc>
+      </show>
+      <show>
+         <start>15:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>15:05</start>
+         <titel>Beyond Authority</titel>
+         <desc lang="en">A weekly program assessing important political, security, economic, social and general events of interest to the public.</desc>
+      </show>
+      <show>
+         <start>15:30</start>
+         <titel>Al Jazeera Documentary</titel>
+         <desc lang="en">Documentary series showcasing a wide range of both regional and international subjects.</desc>
+      </show>
+      <show>
+         <start>16:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>17:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>17:30</start>
+         <titel>Outside the Text</titel>
+         <desc lang="en">Documentary about writers and artists whose art was censored or banned.</desc>
+      </show>
+      <show>
+         <start>18:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>18:30</start>
+         <titel>Behind the News</titel>
+         <desc lang="en">Current affairs program analysing the major news story of the day.</desc>
+      </show>
+      <show>
+         <start>19:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>20:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>20:05</start>
+         <titel>Private Investigation</titel>
+         <desc lang="en">Current affairs magazine that links official information with eyewitness reports to form a complete picture of the event.</desc>
+      </show>
+      <show>
+         <start>21:00</start>
+         <titel>Today's Harvest</titel>
+         <desc lang="en">An extensive round up of the day's news coverage, bringing you the headline news along with in-depth reports, analysis and interviews from around the world. Also includes world sports news.</desc>
+      </show>
+      <show>
+         <start>22:00</start>
+         <titel>News Bulletin</titel>
+         <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
+      </show>
+      <show>
+         <start>23:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>23:05</start>
+         <titel>Press Review</titel>
+         <desc lang="en">Latest editorials and opinion columns from various major newspapers around the world, brought to you by JSC correspondents.</desc>
+      </show>
+      <show>
+         <start>23:30</start>
+         <titel>Economy &amp; People</titel>
+         <desc lang="en">Programme that discusses economic issues to throw light on their effect and relevance to people.</desc>
+      </show>
+      <show>
+         <start>00:00</start>
+         <titel>News Summary</titel>
+         <desc lang="en">Round up of the latest news headlines.</desc>
+      </show>
+      <show>
+         <start>00:05</start>
+         <titel>Behind the News</titel>
+         <desc lang="en">Current affairs program analysing the major news story of the day.</desc>
+      </show>
+      <show>
+         <start>00:30</start>
+         <titel>The Traveler</titel>
+         <desc lang="en">Weekly program dealing with travel issues, adventure journeys and touring touristic activities.</desc>
+      </show>
+   </channel>
+   <channel>
+      <name>13thstreet.de</name>
+      <logotype>http://chanlogos.xmltv.se/13thstreet.de.png</logotype>
+      <show>
+         <start>01:15</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>02:05</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>02:55</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>03:45</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>04:35</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>05:25</start>
+         <titel>Cape Town</titel>
+         <desc lang="de">Mat Joubert (Trond Espen Seim) galt als einer der besten Polizisten Kapstadts. Doch seit der Ermordung seiner Frau vor einem Jahr ist Mat nur noch ein Schatten seiner selbst. Trotzdem fordert sein neuer Chef Mats vollen Einsatz. In sechs Monaten muss er wieder der Alte sein. Das bedeutet Training, Diät und Psychotherapie. Außerdem wird Mat ein neuer Partner zur Seite gestellt. Sanctus Snook (Boris Kodjoe) ist ein ehemaliger Elite-Cop. Das ungleiche Duo muss nicht lange auf seinen ersten Einsatz warten. Ein erfolgreicher Geschäftsmann wurde ermordet.</desc>
+      </show>
+      <show>
+         <start>06:15</start>
+         <titel>Cold Blood - Kein Ausweg. Keine Gnade.</titel>
+         <desc lang="de">Nach einem missglückten Raubüberfall flüchten Addison (Eric Bana) und seine Zwillingsschwester Liza (Olivia Wilde) Richtung Kanada. Mitten in der verschneiten Wildnis wird die Flucht durch einen Unfall gestoppt. Um ihre Spuren zu verwischen, trennen sich die Geschwister. Während eines Schneesturms wird Liza von dem Ex-Boxer Jay Mills (Charlie Hunnam) aufgelesen. Der ist unterwegs zur Farm seiner Eltern Chet (Kris Kristofferson) und June (Sissy Spacek), um dort Thanksgiving zu verbringen. Auch Addison, der eine Spur der Gewalt hinterlässt, erreicht die Farm. Dort kommt es zum Showdown.</desc>
+      </show>
+      <show>
+         <start>07:50</start>
+         <titel>Navy CIS: L.A.</titel>
+         <desc lang="de">Der NCIS-Psychologe Nate Getz (Peter Cambor) beteiligt sich bei einem Undercover-Einsatz an einem Überfall, bei dem große Mengen Sprengstoff gestohlen werden. Sam (LL Cool J) und Callen (Chris O'Donnell) nehmen die Verfolgung auf und versuchen herauszufinden, ob Nate zu der Verbrecherbande der skrupellosen Alisa Chambers (Judith Shekoni) übergelaufen ist oder ob er immer noch auf der Seite der Gerechtigkeit steht.</desc>
+      </show>
+      <show>
+         <start>08:35</start>
+         <titel>Navy CIS: L.A.</titel>
+         <desc lang="de">Agenten aus Nordkorea schalten in den USA unzuverlässig gewordene Kollegen aus. Die sogenannte Hobbs-Liste enthält die Namen der Opfer, und als Ausführende war eigentlich Jennifer Kim (Malese Jow) vorgesehen. Doch Kim hat einen Rückzieher gemacht. Granger (Miguel Ferrer) bringt Kim nach Los Angeles und erfährt auf der Fahrt dorthin interessante Neuigkeiten.</desc>
+      </show>
+      <show>
+         <start>09:20</start>
+         <titel>Navy CIS: L.A.</titel>
+         <desc lang="de">Im Verteidigungsministerium war ein Feuer ausgebrochen, und in dem Chaos der Löscharbeiten wurden ganze Aktencontainer gestohlen. Weil die Akten geheime Informationen über potenzielle Terroristen enthalten, werden Sam (LL Cool J) und Callen (Chris O'Donnell), als Feuerwehrmänner getarnt, ins Pentagon geschickt, um den Verbleib der Akten aufzuklären.</desc>
+      </show>
+      <show>
+         <start>10:05</start>
+         <titel>Navy CIS: L.A.</titel>
+         <desc lang="de">Sam (LL Cool J) empfängt einen codierten Notruf von seinem Sohn Aiden (Tye White). Die Militärakademie, in der sich Aiden aufhält, wurde von einer Terrorgruppe unter der Führung von Sams Erzfeind Tahir Khaled (Anslem Richardson) unter Kontrolle gebracht. Sam, Callen (Chris O'Donnell), Kensi (Daniela Ruah) und Deeks (Eric Christian Olsen) brechen auf, um die Geiseln zu befreien und nach Möglichkeit Tahir zu verhaften.</desc>
+      </show>
+      <show>
+         <start>10:50</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Gibbs (Mark Harmon) wird über den vermissten Petty Officer Kelly Ristow (Emily Alabi) informiert. Ihre Fingerabdrücke wurden am Tatort eines Mordes gefunden. Man geht davon aus, dass das Opfer Ristow entführt hatte, sie sich befreien konnte, ihren Entführer tötete und floh. Als sie schließlich am Flughafen gefunden wird, gibt Ristow an, ihr Ehemann habe sich dort mit ihr treffen wollen, da sie in Gefahr seien. Er sei jedoch nicht aufgetaucht. Das Team macht sich auf die Suche nach ihm. Unterdessen plant Abby (Pauley Perrette), für die Neulinge ganz besondere Geschenke anzufertigen.</desc>
+      </show>
+      <show>
+         <start>11:40</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Beim Überfall auf einen Schnapsladen wird ein Matrose getötet. Ein Angestellter des Ladens ist seit dem Vorfall verschwunden. Torres (Wilmer Valderrama) verstößt gegen die Vorschriften, als er in Erfahrung, dass der Verdächtige von der Einwanderungsbehörde gesucht wird. Unterdessen versuchen Abby (Pauley Perrette), McGee (Sean Murray) und Bishop (Emily Wickersham), Anthony DiNozzo sen. (Robert Wagner) davon zu überzeugen, die Wohnung seines Sohnes unterzuvermieten.</desc>
+      </show>
+      <show>
+         <start>12:30</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Bishop (Emily Wickersham) wird auf den Navy-Stützpunkt nach Guantanamo geschickt, um dort Beweisstücke für den Mord an einem Militärgeistlichen abzuholen. Die Reise bringt sie dazu, ihre frühere Arbeit für die NSA infrage zu stellen. Unterdessen kommen Bishops Brüder George (Ryan Doom), Robert (Jesse Johnson) und John (Jesse Bradford) über Thanksgiving zu Besuch und versuchen, von Ellies Kollegen herauszufinden, mit wem sie ausgeht.</desc>
+      </show>
+      <show>
+         <start>13:15</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Das Team muss einer Reihe von immer weiter eskalierenden Drohungen gegen die Kongressabgeordnete Jenna Flemming (Mary Stuart Masterson) nachgehen. Ihr Assistent Max Sanders (Tommy Savas) hatte die NCIS informiert und liefert auch eine Liste mit Personen, die Flemming in der Vergangenheit bereits bedroht haben. Direktor Vance (Rocky Carroll) sorgt dafür, dass die Abgeordnete Personenschutz bekommt, obwohl sie selbst das für unnötig hält.</desc>
+      </show>
+      <show>
+         <start>14:00</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Das NCIS ermittelt im Mord an einem Navy Captain, der unter Verdacht steht, Geheimnisse verkauft zu haben. Unter seinen Habseligkeiten finden sie die Adresse des Hauses, in dem Ducky (David McCallum) früher mit seiner inzwischen verstorbenen Mutter lebte. Das führt dazu, dass Ducky eine ausschlaggebende Entscheidung, die er vor 37 Jahren treffen musste, nachträglich infrage stellt. Unterdessen tauscht das Team Weihnachtsgeschenke aus, und Gibbs (Mark Harmon) verbringt Weihnachten mit Fornell (Joe Spano).</desc>
+      </show>
+      <show>
+         <start>14:45</start>
+         <titel>Navy CIS</titel>
+         <desc lang="de">Ein international agierender Terrorist, der die Börse durch gezielte Anschläge manipuliert, taucht in den USA auf. Eine Undercover-Aktion, in die neben dem NCIS auch andere Behörden involviert sind, wird von einem Maulwurf verraten. Reeves (Duane Henry), der sich in die Entourage des Terroristen einschleusen ließ, muss sich daraufhin Fragen über seine Loyalität gefallen lassen. Für einen anderen Agenten hat der Einsatz noch wesentlich ernstere Konsequenzen.</desc>
+      </show>
+      <show>
+         <start>15:35</start>
+         <titel>Scorpion</titel>
+         <desc lang="de">Das Scorpion-Team wird von einer ausländischen Regierung beauftragt, eine Raumkapsel zu bergen, die einen Asteroiden mitführt. Es stellt sich jedoch heraus, dass dieser DNS-Stränge in sich trägt, die tödliche Erreger enthalten, die Millionen von Menschen töten könnten. Währenddessen bekommt Cabe (Robert Patrick), der zu Hause geblieben ist, Besuch von Allie (Reiko Aylesworth), die wichtige Neuigkeiten für ihn und Sly (Ari Stidham) hat, und Paige (Katherine McPhee) kämpft mit ihren Hochzeitsvorbereitungspflichten.</desc>
+      </show>
+      <show>
+         <start>16:25</start>
+         <titel>Scorpion</titel>
+         <desc lang="de">Ein Raumfahrtunternehmen engagiert das Scorpion-Team, um das Energieversorgungsnetz in ihrem Mars-Simulations-Biodome zu reparieren. Als ein wichtiges System ausfällt, muss das Team zwei Wissenschaftler, die seit elf Monaten in dem Biodome leben, evakuieren. Walter (Elyes Gabel) und Paige (Katherine McPhee) sind außerdem damit beschäftigt, Happys (Jadyn Wong) und Tobys (Eddie Kaye Thomas) Jungesell(inn)en-Abschiede zu planen. Das Paar bereitet sich unterdessen darauf vor, zusammenzuziehen und muss sich schnell mit den ersten Differenzen auseinandersetzen.</desc>
+      </show>
+      <show>
+         <start>17:10</start>
+         <titel>Scorpion</titel>
+         <desc lang="de">Am Tag von Happys (Jadyn Wong) und Tobys (Eddie Kaye Thomas) Hochzeit wird das Scorpion-Team nach Wyoming gerufen, wo ein Blitzschlag eine unterirdische Kohlenmine entzündet hat. Das Feuer muss gelöscht werden, bevor ein Telekommunikationskabel zerstört wird, und das Team will pünktlich zur Zeremonie zurück in Kalifornien sein. Als Komplikationen auftreten, muss Paige (Katherine McPhee) eine improvisierte Feier auf die Beine stellen. Außerdem bekommt Cabe (Robert Patrick) einen Anruf, der das Team nach Tahiti beordert.</desc>
+      </show>
+      <show>
+         <start>17:55</start>
+         <titel>Scorpion</titel>
+         <desc lang="de">Auf dem Weg nach Tahiti muss das Team auf einer unbewohnten Insel notlanden. Alle außer dem Piloten Scotty (Rockmond Dunbar) sind unverletzt. Scotty leidet unter dem Kompressionssyndrom und würde sterben, wenn man ihn aus seiner Position befreite. Das Team baut aus den Wrackteilen ein behelfsmäßiges Dialysegerät, um ihn zu retten, und sucht gleichzeitig einen Weg, um von der Insel zu kommen. Unterdessen hat Sylvester (Ari Stidham) durch seine Nahtoderfahrung neues Selbstbewusstsein gewonnen, und Walter (Elyes Gabel) gewöhnt sich an die neue Beziehung zu Paige (Katherine McPhee).</desc>
+      </show>
+      <show>
+         <start>18:40</start>
+         <titel>Scorpion</titel>
+         <desc lang="de">Drei Wochen nachdem sie auf einer einsamen Insel gestrandet sind, haben die Teammitglieder unterschiedliche Ideen, wie sie von dort wegkommen könnten, und teilen sich auf. Walter (Elyes Gabel) glaubt, dass eine Veränderung des Magnetfelds die Lösung sei, während Toby (Eddie Kaye Thomas) versucht, ein Floß aus gerade entdeckten Ölfässern zu bauen. Als Ralph (Riley B. Smith) und Scotty (Rockmond Dunbar) in einer Sandgrube zu versinken drohen, arbeiten jedoch alle wieder zusammen, um die beiden zu retten.</desc>
+      </show>
+      <show>
+         <start>19:25</start>
+         <titel>Bull</titel>
+         <desc lang="de">Bull (Michael Weatherly) unterstützt den Bezirksstaatsanwalt in dessen Fall gegen Kara Clayton (Minka Kelly). Die junge Frau behauptet, sie habe ihren milliardenschweren Ehemann in Notwehr getötet. Die Angelegenheit wird noch brisanter, als Bull erfährt, dass seine Teilzeit-Freundin Diana Lindsay (Jill Flint) die Verteidigung der Witwe übernommen hat. Außerdem trifft Chunk (Christopher Jackson) eine Entscheidung, die seine Zukunft betrifft.</desc>
+      </show>
+      <show>
+         <start>20:13</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">In einem Krankenhaus stirbt ein Mädchen mit Bronchitis. Ihr Vater ist Anwalt und Mitglied des Klinikvorstandes. Er verklagt die Klinik wegen krimineller Fahrlässigkeit. Überrascht stellen die Polizisten Greevey und Logan fest, dass der Chefarzt die Verantwortung für den Tod des Mädchens tragen könnte. Doch das Personal will nicht gegen ihn aussagen.</desc>
+      </show>
+      <show>
+         <start>21:05</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">Eine weiße Frau erschießt in einer überfüllten U-Bahn zwei schwarze Teenager. Zuerst sieht alles nach Notwehr aus. Untersuchungen ergeben jedoch, dass Rache ein Motiv für das Verbrechen sein könnte. Kläger und Ermittler versuchen die Wahrheit ans Licht zu bringen.</desc>
+      </show>
+      <show>
+         <start>21:55</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">Als ein junger Schwuler tot aufgefunden wird, können Greevey und Logan eine Verbindung zu ähnlichen Fällen in Los Angeles und San Francisco herstellen. Die Opfer waren alle mit dem Aids-Virus infiziert.</desc>
+      </show>
+      <show>
+         <start>22:45</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">Auf der Upper East Side wird die Leiche eines Mädchens gefunden. Die Ermittler befragen ihren aktuellen Freund und ihren Verflossenen. Ihren Ex, einen Jungen aus gutem Hause mit einer soliden Ausbildung, hatte sie für einen mittellosen Künstler verlassen. Beweismittel ergeben, dass sie in der Nacht ihres Todes mit beiden Männern verkehrte.</desc>
+      </show>
+      <show>
+         <start>23:35</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">In einem Parkhaus wird ein Millionär ausgeraubt und anschließend ermordet. Seine Frau wird bei dem Überfall verletzt. Da der einzige Zeuge des Angriffs betrunken war, sind Greevey (George Dzundza) und Logan (Chris Noth) nun auf die Aussage der Witwe angewiesen. Allerdings wirkt ihre Schilderung der Vorkommnisse wie auswendig gelernt.</desc>
+      </show>
+      <show>
+         <start>00:05</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">Als der Vorsitzende einer Wohltätigkeitsorganisation ermordet wird, führen die Ermittlungen die Detectives von der SM-Szene bis ins Haus des Gouverneurs. Zeitgleich steht die Wahl des obersten Staatsanwalts an und McCoy (Sam Waterston) muss in diesem politischen Minenfeld vorsichtig agieren, um seine Wiederwahl nicht zu gefährden.</desc>
+      </show>
+      <show>
+         <start>00:50</start>
+         <titel>Law &amp; Order</titel>
+         <desc lang="de">Die Detectives Lupo (Jeremy Sisto) und Bernard (Anthony Anderson) untersuchen den Mord an einem jungen Veteranen namens Greg Tanner. Der Ex-Soldat wurde erschossen im Parkhaus der Hudson Universität gefunden. Neben einer Drogengang; gerät auch Professor Kevin Franklin (David Alan Basche), der für das Justizministerium tätig ist, unter Mordverdacht. Offenbar hatte er Greg Tanner in letzter Zeit dazu drängen wollen, bei einer juristischen Auseinandersetzung um Foltermethoden für ihn tätig zu werden.</desc>
+      </show>
+   </channel>
+   <channel>
+      <name>1tvrus.com</name>
+      <logotype>http://chanlogos.xmltv.se/1tvrus.com.png</logotype>
+      <show>
+         <start>02:10</start>
+         <titel>Nebo so mnoj</titel>
+         <desc lang="ru">Igor' Ledogorov, Larisa Luzhina, Vladimir Zamanskij</desc>
+      </show>
+      <show>
+         <start>03:45</start>
+         <titel>CHelovek niotkuda</titel>
+         <desc lang="ru">Sergej JUrskij, Ljudmila Gurchenko, JUrij JAkovlev</desc>
+      </show>
+      <show>
+         <start>05:05</start>
+         <titel>Modnyj prigovor</titel>
+      </show>
+      <show>
+         <start>06:00</start>
+         <titel>Novosti</titel>
+      </show>
+      <show>
+         <start>06:10</start>
+         <titel>Starshaja sestra</titel>
+         <desc lang="ru">Tat'jana Doronina, Mihail ZHarov, Natal'ja Tenjakova, Vitalij Solomin</desc>
+      </show>
+      <show>
+         <start>07:50</start>
+         <titel>Smeshariki. PIN-kod</titel>
+      </show>
+      <show>
+         <start>08:10</start>
+         <titel>CHasovoj</titel>
+      </show>
+      <show>
+         <start>08:40</start>
+         <titel>Zdorov'e</titel>
+      </show>
+      <show>
+         <start>09:40</start>
+         <titel>Neputjovye zametki</titel>
+         <desc lang="ru">s Dm. Krylovym</desc>
+      </show>
+      <show>
+         <start>10:00</start>
+         <titel>Novosti</titel>
+      </show>
+      <show>
+         <start>10:25</start>
+         <titel>V gosti po utram</titel>
+         <desc lang="ru">Prem'era. s Mariej SHukshinoj</desc>
+      </show>
+      <show>
+         <start>11:20</start>
+         <titel>Dorogaja pereDacha</titel>
+         <desc lang="ru">Prem'era.</desc>
+      </show>
+      <show>
+         <start>12:00</start>
+         <titel>Novosti</titel>
+      </show>
+      <show>
+         <start>12:15</start>
+         <titel>Teorija zagovora</titel>
+      </show>
+      <show>
+         <start>13:25</start>
+         <titel>Slava</titel>
+         <desc lang="ru">Evgenij Pronin, Valerij Barinov</desc>
+      </show>
+      <show>
+         <start>17:10</start>
+         <titel>Stariki-razbojniki</titel>
+         <desc lang="ru">JUrij Nikulin, Evgenij Evstigneev, Ol'ga Aroseva</desc>
+      </show>
+      <show>
+         <start>18:50</start>
+         <titel>Klub Vesjolyh i Nahodchivyh</titel>
+         <desc lang="ru">Vysshaja liga</desc>
+      </show>
+      <show>
+         <start>21:00</start>
+         <titel>Vremja</titel>
+         <desc lang="ru">Voskresnoe . Informacionno-analiticheskaja programma</desc>
+      </show>
+      <show>
+         <start>22:30</start>
+         <titel>CHto? Gde? Kogda?</titel>
+         <desc lang="ru">Deti XXI veka</desc>
+      </show>
+      <show>
+         <start>23:40</start>
+         <titel>Trjapichnyj sojuz</titel>
+         <desc lang="ru">Prem'era. Vasilij Butkevich, Ivan JAnkovskij, Pavel CHinarjov, Aleksandr Pal', Anastasija Pronina</desc>
+      </show>
+   </channel>
+   <channel>
+      <name>2.bluemovie.de</name>
+      <logotype>http://chanlogos.xmltv.se/2.bluemovie.de.png</logotype>
+      <show>
+         <start>02:20</start>
+         <titel>Spaß unter Freunden</titel>
+      </show>
+      <show>
+         <start>04:10</start>
+         <titel>Pärchentausch Wien</titel>
+      </show>
+      <show>
+         <start>05:50</start>
+         <titel>Magmacasting 4</titel>
+      </show>
+      <show>
+         <start>06:00</start>
+         <titel>Spaß unter Freunden</titel>
+      </show>
+      <show>
+         <start>07:50</start>
+         <titel>Pärchentausch Wien</titel>
+      </show>
+      <show>
+         <start>09:30</start>
+         <titel>Oberförster Willi Wild 2</titel>
+      </show>
+      <show>
+         <start>11:15</start>
+         <titel>Karneval im Lustrausch</titel>
+      </show>
+      <show>
+         <start>12:55</start>
+         <titel>Deutsche Frauen - blond und erfahren</titel>
+      </show>
+      <show>
+         <start>14:45</start>
+         <titel>Familie Figger</titel>
+      </show>
+      <show>
+         <start>16:10</start>
+         <titel>Spaß unter Freunden</titel>
+      </show>
+      <show>
+         <start>18:00</start>
+         <titel>Pärchentausch Wien</titel>
+      </show>
+      <show>
+         <start>19:40</start>
+         <titel>Oberförster Willi Wild 2</titel>
+      </show>
+      <show>
+         <start>21:25</start>
+         <titel>Karneval im Lustrausch</titel>
+      </show>
+      <show>
+         <start>23:05</start>
+         <titel>Deutsche Frauen - blond und erfahren</titel>
+      </show>
+      <show>
+         <start>00:05</start>
+         <titel>Dicke deutsche Dinger</titel>
+      </show>
+   </channel>
+</tvguide>

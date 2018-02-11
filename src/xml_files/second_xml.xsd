@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<xsd:element name="tvguide" type="tvguide_type"/>
+
+	<xsd:complexType name="tvguide_type">
+		<xsd:sequence>
+			<xsd:element name="channel" type="channel_type" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<xsd:complexType name="channel_type">
+		<xsd:sequence>
+			<xsd:element name="name" type="xsd:string"/>
+			<xsd:element name="logotype" type="xsd:string"/>
+			<xsd:element name="show" type="show_type" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="show_type">
+		<xsd:sequence>
+			<xsd:element name="start" type="xsd:string"/>
+			<xsd:element name="titel" type="xsd:string"/>
+			<xsd:element name="desc" type="desc_type" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="desc_type">
+		<xsd:simpleContent>
+			<xsd:extension base="xsd:string">
+				<xsd:attribute name="lang" type="xsd:string"/>
+			</xsd:extension>
+		</xsd:simpleContent>
+	</xsd:complexType>
+</xsd:schema>
